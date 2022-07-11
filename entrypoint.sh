@@ -1,6 +1,6 @@
 #!/bin/sh
 
-UUID=2fce3204-a532-43f6-bdf5-c656de7088f0
+UUID=abb1e383-19c0-41d7-804c-09b2571d645e
 WSPATH=/275bc435-c1a1-499a-85d6-45d43db49daa
 
 
